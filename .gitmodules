@@ -1,0 +1,6 @@
+[submodule "themes/Learn"]
+	path = themes/Learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "coherence-operator/themes/Learn"]
+	path = coherence-operator/themes/Learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
