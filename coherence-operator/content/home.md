@@ -4,7 +4,7 @@ date: 2019-08-06T15:00:32+05:30
 ---
 Welcome to Coherence Operator Documentation!
 
-# Coherence Operator Documentation
+Coherence Operator Documentation
 
 Oracle enables organizations using Coherence to move their clusters into the cloud. By supporting industry standards, such as Docker and Kubernetes, Oracle facilitates running Coherence on cloud-neutral infrastructure. In addition, Oracle provides an open-source Coherence Operator (“the operator”), which implements features to assist with deploying and managing Coherence clusters in a Kubernetes environment. You can:
  - Run Coherence within the de facto standard Kubernetes container orchestration framework, using Docker containers for the members of a Coherence cluster.
