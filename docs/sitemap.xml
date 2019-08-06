@@ -3,17 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://swati-thacker.github.io/swati-test-repo/home/</loc>
+    <lastmod>2019-08-06T15:00:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swati-thacker.github.io/swati-test-repo/</loc>
+    <lastmod>2019-08-06T15:00:32+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://swati-thacker.github.io/swati-test-repo/home/</loc>
+    <lastmod>2019-08-06T13:50:50+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://swati-thacker.github.io/swati-test-repo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://swati-thacker.github.io/swati-test-repo/tags/</loc>
     <priority>0</priority>
   </url>
   
