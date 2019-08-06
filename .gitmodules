@@ -4,3 +4,6 @@
 [submodule "coherence-operator/themes/Learn"]
 	path = coherence-operator/themes/Learn
 	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "coherence-operator/themes/Alabaster"]
+	path = coherence-operator/themes/Alabaster
+	url = https://github.com/digitalcraftsman/hugo-alabaster-theme.git
